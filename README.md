@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Study Base -- ¬
+
+[JavaScript/TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
+[Lógica de programação/C++](https://www.udemy.com/course/logica-de-programacao-para-todos)
+[Freecodecamp](www.freecodecamp.org)~
+[URI Online Judge](www.urionlinejudge.com.br)
+
+
+
 <!--
 **rafaelcastrobr/rafaelcastrobr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
