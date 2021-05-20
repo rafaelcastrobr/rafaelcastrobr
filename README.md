@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Study Base -- ¬
+#####Study Base -- ¬
+
+[Analise e Desenvolvimento de Sistemas/Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/)
 
 [JavaScript/TypeScript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
 
