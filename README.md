@@ -17,6 +17,8 @@
 ---
 
 
-<a href="https://github.com/ricarthlima/ricarthlima">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcastrobr" />
-</a>
+<p align="center">
+  <a href="https://badges.pufler.dev">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcastrobr&layout=compact" alt="Statistic Programming" />
+   </a>
+</p>
