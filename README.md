@@ -2,7 +2,8 @@
 
 - 🔭 Estou me dedicando nos projetos [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus) && [Cartola Valorização](https://github.com/rafaelcastrobr/Cartola-valorizacao)
 
-- 🌱 Atualmente eu estudo o famoso React.
+- 🌱 Atualmente eu estudo JavaScript.
+- ⌛ Melhorando minha performance em React.
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
