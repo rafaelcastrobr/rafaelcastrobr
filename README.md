@@ -1,6 +1,6 @@
 <h3 align="center">Estudando e analisando pequenos e grandes projetos</h3>
 
-- 🔭 Estou me dedicando nos projetos [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
+- 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
 - 🌱 Atualmente eu estudo JavaScript.
 - ⌛ Melhorando minha performance em React. x
