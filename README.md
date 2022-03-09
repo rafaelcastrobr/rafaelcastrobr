@@ -1,9 +1,9 @@
 <h3 align="center">Estudando e analisando pequenos e grandes projetos</h3>
 
-- 🔭 Estou me dedicando nos projetos [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus) && [Cartola Valorização](https://github.com/rafaelcastrobr/Cartola-valorizacao)
+- 🔭 Estou me dedicando nos projetos [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
 - 🌱 Atualmente eu estudo JavaScript.
-- ⌛ Melhorando minha performance em React.
+- ⌛ Melhorando minha performance em React. x
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
