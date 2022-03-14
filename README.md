@@ -2,7 +2,7 @@
 
 - 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
-- 🌱 Atualmente eu estudo JavaScript.
+- 🌱 Atualmente eu estudo JavaScript e React.
 - ⌛ Melhorando minha performance em React. x
 
 <h3 align="left">Me encontre em:</h3>
