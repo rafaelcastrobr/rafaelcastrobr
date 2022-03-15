@@ -4,6 +4,11 @@
 
 - 🌱 Atualmente eu estudo JavaScript e React.
 - ⌛ Melhorando minha performance em React. x
+- ✔️ Projetos Finalizados 
+  - [MKLista](https://github.com/rafaelcastrobr/list-mk) | Gerador de lista para um fórum {JS}
+  - [Cartola3Rodada](https://github.com/rafaelcastrobr/Cartola-valorizacao) | Programa para facilitar vida do Cartoleiro na 3ªRodada Campeonato Brasileiro {JS}
+  - [Gotry](https://github.com/rafaelcastrobr/gotry-react-projeto) | Projeto inspirado no site Gatry {React}
+  - [IMDb](https://github.com/rafaelcastrobr/links-IMDb) | Script para localizar links de outros sites no imdb.com {JS}
 
 <h3 align="left">Me encontre em:</h3>
 <p align="left">
