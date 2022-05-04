@@ -2,7 +2,7 @@
 
 - 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
-- 🌱 Atualmente eu estudo JavaScript, React, UX e UI Design
+- 🌱 Atualmente eu estudo JavaScript, React..
 - ⌛ Melhorando minha performance em React. x
 - ✔️ Projetos Finalizados 
   - [MKLista](https://github.com/rafaelcastrobr/list-mk) | Gerador de lista para um fórum {JS}
