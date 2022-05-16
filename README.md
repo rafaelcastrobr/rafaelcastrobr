@@ -5,6 +5,7 @@
 - 🌱 Atualmente eu estudo JavaScript, React..
 - ⌛ Melhorando minha performance em React. x
 - ✔️ Projetos Finalizados 
+  - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
   - [MKLista](https://github.com/rafaelcastrobr/list-mk) | Gerador de lista para um fórum {JS}
   - [Cartola3Rodada](https://github.com/rafaelcastrobr/Cartola-valorizacao) | Programa para facilitar vida do Cartoleiro na 3ªRodada Campeonato Brasileiro {JS}
   - [Gotry](https://github.com/rafaelcastrobr/gotry-react-projeto) | Projeto inspirado no site Gatry {React}
