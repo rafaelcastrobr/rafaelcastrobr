@@ -2,7 +2,7 @@
 
 - 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
-- 🌱 Atualmente eu estudo JavaScript, React..
+- 🌱 Atualmente eu estudo JavaScript, VueJs..
 - ⌛ Melhorando minha performance em React. x
 - ✔️ Projetos Finalizados 
   - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
