@@ -5,6 +5,7 @@
 - 🌱 Atualmente eu estudo JavaScript e novas linguagens
 - ⌛ Melhorando minha performance em React. x
 - ✔️ Projetos Finalizados 
+  - [Gastos Gerais](https://github.com/rafaelcastrobr/gastos) | WebApp para gastos {React}
   - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
   - [MKLista](https://github.com/rafaelcastrobr/list-mk) | Gerador de lista para um fórum {JS}
   - [Cartola3Rodada](https://github.com/rafaelcastrobr/Cartola-valorizacao) | Programa para facilitar vida do Cartoleiro na 3ªRodada Campeonato Brasileiro {JS}
