@@ -2,8 +2,7 @@
 
 - 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus) | [Assisto Séries](https://github.com/rafaelcastrobr/Assisto-series)
 
-- 🌱 Atualmente eu estudo Flutter + Dart
-- ⌛ Melhorando minha performance em React. x
+- ⌛ Melhorando minha performance em TypeScript. x
 - ✔️ Projetos Finalizados 
   - [Gastos Gerais](https://github.com/rafaelcastrobr/gastos) | WebApp para gastos {React}
   - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
