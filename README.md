@@ -1,8 +1,8 @@
 <h3 align="center">Estudando e analisando pequenos e grandes projetos</h3>
 
-- 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus) | [Assisto Séries](https://github.com/rafaelcastrobr/Assisto-series)
+- 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
 
-- ⌛ Melhorando minha performance em TypeScript. x
+- ⌛ Melhorando minha performance em C#.NET. x
 - ✔️ Projetos Finalizados 
   - [Gastos Gerais](https://github.com/rafaelcastrobr/gastos) | WebApp para gastos {React}
   - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
