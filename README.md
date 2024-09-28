@@ -1,9 +1,10 @@
 <h3 align="center">Estudando e analisando pequenos e grandes projetos</h3>
 
-- 🔭 Estou me dedicando no projeto [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
+- 🔭 Estou me dedicando no projeto [Gastos Gerais (versão mobile)](https://github.com/rafaelcastrobr/gastos_gerais_app_flutter)
 
 - ⌛ Melhorando minha performance em C#.NET. x
-- ✔️ Projetos Finalizados 
+- ✔️ Projetos Finalizados
+  - [Saldo Ônibus](https://github.com/rafaelcastrobr/Saldo-Onibus)
   - [Gastos Gerais](https://github.com/rafaelcastrobr/gastos) | WebApp para gastos {React}
   - [Clima-Dia](https://github.com/rafaelcastrobr/clima-dia) | Previsão do Tempo {React}
   - [MKLista](https://github.com/rafaelcastrobr/list-mk) | Gerador de lista para um fórum {JS}
